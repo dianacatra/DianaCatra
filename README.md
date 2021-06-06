@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @DianaCatra
+- 👋 Hi, I'm @dianacatra
 - 👀 I'm interested in learning JS
 - 🌱 I'm currently doing "The Odin Project"
 - 💞️ I'm hopeful that I shall be able to make contributions from June 2021, once I have a good wrasp and practice of the foundations ;))
