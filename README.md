@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @dianacatra
 - 👀 I'm interested in learning JS
 - 🌱 I'm currently doing "The Odin Project"
-- 💞️ I'm hopeful that I shall be able to make contributions from June 2021, once I have a good wrasp and practice of the foundations ;))
+- 💞️ I'm hopeful that I shall be able to make contributions from June 2021, once I have a good grasp and practice of the foundations.
 - 📫 How to reach me: diana.closorio@gmail.com
 
 <!---
