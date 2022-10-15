@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @dianacatra
 - 🐍 I'm learning Python
-- 🌱 I'm currently doing "The Odin Project"
+- 🌱 I'm currently doing the Acodemy coding course by (one day to be) Dr. Byrne @synek.
 - 💞️ I'm hopeful that I shall be able to make contributions from 2023 start.
 - 📫 You can reach me at: diana.closorio@gmail.com
 
