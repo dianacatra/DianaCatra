@@ -4,8 +4,8 @@
 - 💞️ I'm hopeful that I shall be able to make contributions from the start of 2023
 - 📫 You can reach me at: diana.closorio@gmail.com
 -  §(•_•)/
--   <).) uh! 👩🏻‍⚖️ ➡︎ 🐍
--   / \ 
+-   <)**) uh! 👩🏻‍⚖️ ➡︎ 🐍
+-   /__\ 
 -  🛼 🛼
 
 <!---
