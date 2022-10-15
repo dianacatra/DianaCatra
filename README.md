@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @dianacatra
-- 👀 I'm interested in learning JS
+- 🐍 I'm learning Python
 - 🌱 I'm currently doing "The Odin Project"
-- 💞️ I'm hopeful that I shall be able to make contributions from June 2021, once I have a good grasp and practice of the foundations.
-- 📫 How to reach me: diana.closorio@gmail.com
+- 💞️ I'm hopeful that I shall be able to make contributions from 2023 start.
+- 📫 You can reach me at: diana.closorio@gmail.com
 
 <!---
 DianaCatra/DianaCatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
