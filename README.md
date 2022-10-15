@@ -3,11 +3,10 @@
 - 🌱 I'm currently doing the Acodemy coding course by Mr. Byrne @synek
 - 💞️ I'm hopeful that I shall be able to make contributions from the start of 2023
 - 📫 You can reach me at: diana.closorio@gmail.com
--   _  👩🏻‍⚖️ ➡︎ 🐍
 -  §(•_•)/
--   <).) uh!
+-   <).) uh! 👩🏻‍⚖️ ➡︎ 🐍
 -   / \ 
--  🛼  🛼
+-  🛼 🛼
 
 <!---
 DianaCatra/DianaCatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
