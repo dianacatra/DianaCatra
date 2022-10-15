@@ -5,8 +5,8 @@
 - 📫 You can reach me at: diana.closorio@gmail.com
 -  §(•_•)/
 -   <)**) uh! 👩🏻‍⚖️ ➡︎ 🐍
--   // \\
--  🛼 🛼
+-   // |\
+-  🛼🛼
 
 <!---
 DianaCatra/DianaCatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
